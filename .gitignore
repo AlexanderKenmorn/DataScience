@@ -1,4 +1,6 @@
 /.idea
 /tests
 .ipynb_checkpoints
-/ML/computer_vision/002/data/digit/
+/ML/computer_vision/002/data/digit/test.csv
+/ML/computer_vision/002/data/digit/train.csv
+/ML/computer_vision/007/data/fish/fishdetector_weights.hdf5
