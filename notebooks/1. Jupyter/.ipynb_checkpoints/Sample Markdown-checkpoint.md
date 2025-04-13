@@ -1,6 +1,0 @@
-### Heading
-- First
-- Second
-- Third
-
-  
