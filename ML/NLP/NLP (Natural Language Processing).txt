@@ -1,0 +1,13 @@
+Обработка естественного языка NLP (Natural Language Processing)
+
+Задача:
+Понимание, генерация и анализ текста на человеческом языке.
+
+Примеры ML-применения:
+Классификация текста (спам/не спам).
+Машинный перевод (Google Translate, ChatGPT).
+Генерация текста (GPT, BERT, Llama).
+Анализ тональности (Sentiment Analysis).
+
+Библиотеки:
+NLTK, spaCy, Hugging Face Transformers.
