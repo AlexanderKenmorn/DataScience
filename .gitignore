@@ -1,15 +1,3 @@
 /.idea
 /tests
 .ipynb_checkpoints
-
-#https://disk.yandex.ru/d/sjaFii5EmMPATg
-/ML/CV/002/data/digit/test.csv
-
-#https://disk.yandex.ru/i/hWpSN0SOTw7j7Q
-/ML/CV/002/data/digit/train.csv
-
-#https://disk.yandex.ru/d/wRTa6sMq8rnWOA
-/ML/CV/007/data/fish/fishdetector_weights.hdf5
-
-#https://disk.yandex.ru/d/k5PSHUndZQbokw
-/ML/NLP/netology_master/tweets_sentiment.csv
